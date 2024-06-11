@@ -1,4 +1,23 @@
-## Hi there 👋
+## riptide's LIVE BUG finds
+
+- CRITICAL
+  - Arbitrum
+  - Balancer
+  - Radiant
+  - RadPie
+  - Prisma
+  - Deri
+
+- HIGH
+  - Wormhole
+ 
+- MEDIUM
+  - Reserve
+  - Zerolend
+ 
+- LOW
+  - Conic
+  - Polygon
 
 <!--
 **0xriptide/0xriptide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
