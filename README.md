@@ -1,19 +1,19 @@
 ## riptide's LIVE BUG finds
 
 - CRITICAL
-  - Arbitrum
-  - Balancer
-  - Radiant
-  - RadPie
-  - Prisma
-  - Deri
+  - Arbitrum (bridge takeover / unint proxy)
+  - Balancer (rewards drain / array logic error)
+  - Radiant (30x rewards / array logic error)
+  - RadPie (rewards drain / unprotected function)
+  - Prisma (investor drain / logic error)
+  - Deri (protocol destruction / sig replay)
+  - Sommelier (nuke vault funds / proxy self destruct)
 
 - HIGH
-  - Wormhole
+  - Wormhole (DoS / uninit implementation)
  
 - MEDIUM
-  - Reserve
-  - Zerolend
+  - Reserve (DoS / rounding)
  
 - LOW
   - Conic
