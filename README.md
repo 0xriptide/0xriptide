@@ -16,6 +16,6 @@
 - MEDIUM
   - Reserve (DoS / rounding)
   - Aladdin (DoS / frontrun)
-  - Dolomite (ecrecover 0x0 / liquidation prevention + bad debt accrual)
+  - Dolomite (liquidation prevention + bad debt accrual / sig validation)
   - Hyperlane (DoS / prevent validator set update)
   - Connext (DoS / pause protocol at will)
