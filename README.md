@@ -17,5 +17,5 @@
   - Reserve (DoS / rounding)
   - Aladdin (DoS / frontrun)
   - Dolomite (liquidation prevention + bad debt accrual / sig validation)
-  - Hyperlane (prevent validator set update / sig replay)
+  - Hyperliquid (DoS / sig replay)
   - Connext (pause protocol at will / incorrect hashing)
