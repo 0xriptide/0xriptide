@@ -9,6 +9,7 @@
   - Deri (protocol destruction / sig replay)
   - Sommelier (nuke vault funds / proxy self destruct)
   - Polymarket (loss of funds / sig replay)
+  - Coinex (funds drain)
 
 - HIGH
   - Wormhole (DoS / uninit implementation)
@@ -19,3 +20,4 @@
   - Dolomite (liquidation prevention + bad debt accrual / sig validation)
   - Hyperliquid (DoS / sig replay)
   - Connext (pause protocol at will / incorrect hashing)
+  - Portal (DoS)
