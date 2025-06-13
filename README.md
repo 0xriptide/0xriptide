@@ -13,6 +13,7 @@
 
 - HIGH
   - Wormhole (DoS / uninit implementation)
+  - [redacted] (sig validation)
  
 - MEDIUM
   - Reserve (DoS / rounding)
